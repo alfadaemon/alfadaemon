@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, my name is Luis Araya
 
-Fullstack Developer 💻
+I'm a Fullstack Developer 💻
 
 ## Tech Stack
 * 💻 NodeJS | Python | React-Native | ReactJS | TypeScript | Graphql | MongoDB | PostgreSQL | Old RoR
