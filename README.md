@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Fullstack Developer 💻
 
 ## Tech Stack
-* 💻 NodeJS | Python | React | ReactJS | TypeScript | Graphql | MongoDB | PostgreSQL | Old RoR
+* 💻 NodeJS | Python | React-Native | ReactJS | TypeScript | Graphql | MongoDB | PostgreSQL | Old RoR
 
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfadaemon)](https://github.com/alfadaemon)
 
