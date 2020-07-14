@@ -22,6 +22,7 @@ I'm a Fullstack Developer 💻
 ## Tech Stack
 * 💻 NodeJS | Python | React-Native | ReactJS | TypeScript | Graphql | MongoDB | PostgreSQL | Old RoR
 
+### Most of my contributions are on private repostories, but you can take a peak at my stats:
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfadaemon)](https://github.com/alfadaemon)
 
 <h2>You can find my professional profile here:</h2>
