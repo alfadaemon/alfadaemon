@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, my name is Luis Araya
+
+Fullstack Developer 💻
+
+## Tech Stack
+* 💻 NodeJS | Python | React | ReactJS | TypeScript | Graphql | MongoDB | PostgreSQL | Old RoR
+
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfadaemon)](https://github.com/alfadaemon)
+
+<h2>You can find my professional profile her:</h2>
+<p align="left">
+	<a href="https://www.linkedin.com/in/lfaraya/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
