@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋,
 
 <!--
 **alfadaemon/alfadaemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, my name is Luis Araya
+## My name is Luis Araya
 
 I'm a Fullstack Developer 💻
 
